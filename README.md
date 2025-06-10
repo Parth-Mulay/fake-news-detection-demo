@@ -1,5 +1,5 @@
 # fake-news-detection-demo
-# 📰 Fake News Detection – Demo
+## 📰 Fake News Detection – Demo
 
 This is a **demo version** of my Fake News Detection CLI project using **Python**, **TF-IDF**, **Logistic Regression**, and **Sentiment Analysis**.
 
@@ -20,5 +20,7 @@ This is a **demo version** of my Fake News Detection CLI project using **Python*
 - **Sentiment summaries** for each prediction
 
 ## 🔗 Full project available upon request.
+Full version will be available for Paid
+
 📧 Email: mulayparth8@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/parthmulay](https://www.linkedin.com/in/parthmulay)
